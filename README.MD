@@ -3,7 +3,6 @@
 # Hi there, I'm Mlovo 👋
 
 [![GitHub followers](https://img.shields.io/github/followers/Mlovo?style=social)](https://github.com/Mlovo)
-[![GitHub Stars](https://img.shields.io/github/stars/Mlovo/HuntOpenHighlights?style=social)](https://github.com/Mlovo/HuntOpenHighlights)
 
 **Developer & IT enthusiast from Ukraine 🇺🇦**
 
